@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">king-james-bible</string>
-    <string name="title_activity_main">king-james-bible</string>
-    <string name="package_name">com.aaronl.farsibible</string>
-    <string name="custom_url_scheme">com.aaronl.farsibible</string>
+    <string name="app_name">Farsi Bible</string>
+    <string name="title_activity_main">Farsi Bible</string>
+    <string name="package_name">com.ludiusvox.farsibible</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.aaronl.farsibible;
+package com.ludiusvox.farsibible;
 
 import com.getcapacitor.BridgeActivity;
 
