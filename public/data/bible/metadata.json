@@ -1,0 +1,398 @@
+[
+  {
+    "id": "gen",
+    "name": "پیدایش",
+    "testament": "OT",
+    "chapters": 50
+  },
+  {
+    "id": "exo",
+    "name": "خروج",
+    "testament": "OT",
+    "chapters": 40
+  },
+  {
+    "id": "lev",
+    "name": "لاویان",
+    "testament": "OT",
+    "chapters": 27
+  },
+  {
+    "id": "num",
+    "name": "اعداد",
+    "testament": "OT",
+    "chapters": 36
+  },
+  {
+    "id": "deu",
+    "name": "تثنیه",
+    "testament": "OT",
+    "chapters": 34
+  },
+  {
+    "id": "jos",
+    "name": "یشوع",
+    "testament": "OT",
+    "chapters": 24
+  },
+  {
+    "id": "jdg",
+    "name": "داوران",
+    "testament": "OT",
+    "chapters": 21
+  },
+  {
+    "id": "rut",
+    "name": "روت",
+    "testament": "OT",
+    "chapters": 4
+  },
+  {
+    "id": "1sa",
+    "name": "اول سموئیل",
+    "testament": "OT",
+    "chapters": 31
+  },
+  {
+    "id": "2sa",
+    "name": "دوم سموئیل",
+    "testament": "OT",
+    "chapters": 24
+  },
+  {
+    "id": "1ki",
+    "name": "اول پادشاهان",
+    "testament": "OT",
+    "chapters": 22
+  },
+  {
+    "id": "2ki",
+    "name": "دوم پادشاهان",
+    "testament": "OT",
+    "chapters": 25
+  },
+  {
+    "id": "1ch",
+    "name": "اول تواریخ",
+    "testament": "OT",
+    "chapters": 29
+  },
+  {
+    "id": "2ch",
+    "name": "دوم تواریخ",
+    "testament": "OT",
+    "chapters": 36
+  },
+  {
+    "id": "ezr",
+    "name": "عزرا",
+    "testament": "OT",
+    "chapters": 10
+  },
+  {
+    "id": "neh",
+    "name": "نحمیا",
+    "testament": "OT",
+    "chapters": 13
+  },
+  {
+    "id": "est",
+    "name": "استر",
+    "testament": "OT",
+    "chapters": 10
+  },
+  {
+    "id": "job",
+    "name": "ایوب",
+    "testament": "OT",
+    "chapters": 42
+  },
+  {
+    "id": "psa",
+    "name": "مزامیر",
+    "testament": "OT",
+    "chapters": 150
+  },
+  {
+    "id": "pro",
+    "name": "امثال",
+    "testament": "OT",
+    "chapters": 31
+  },
+  {
+    "id": "ecc",
+    "name": "جامعه",
+    "testament": "OT",
+    "chapters": 12
+  },
+  {
+    "id": "sng",
+    "name": "غزل غزل‌ها",
+    "testament": "OT",
+    "chapters": 8
+  },
+  {
+    "id": "isa",
+    "name": "اشعیا",
+    "testament": "OT",
+    "chapters": 66
+  },
+  {
+    "id": "jer",
+    "name": "ارمیا",
+    "testament": "OT",
+    "chapters": 52
+  },
+  {
+    "id": "lam",
+    "name": "مراثی",
+    "testament": "OT",
+    "chapters": 5
+  },
+  {
+    "id": "ezk",
+    "name": "حزقیال",
+    "testament": "OT",
+    "chapters": 48
+  },
+  {
+    "id": "dan",
+    "name": "دانیال",
+    "testament": "OT",
+    "chapters": 12
+  },
+  {
+    "id": "hos",
+    "name": "هوشع",
+    "testament": "OT",
+    "chapters": 14
+  },
+  {
+    "id": "jol",
+    "name": "یوئیل",
+    "testament": "OT",
+    "chapters": 3
+  },
+  {
+    "id": "amo",
+    "name": "عاموس",
+    "testament": "OT",
+    "chapters": 9
+  },
+  {
+    "id": "oba",
+    "name": "عوبدیا",
+    "testament": "OT",
+    "chapters": 1
+  },
+  {
+    "id": "jon",
+    "name": "یونس",
+    "testament": "OT",
+    "chapters": 4
+  },
+  {
+    "id": "mic",
+    "name": "میکاه",
+    "testament": "OT",
+    "chapters": 7
+  },
+  {
+    "id": "nam",
+    "name": "ناحوم",
+    "testament": "OT",
+    "chapters": 3
+  },
+  {
+    "id": "hab",
+    "name": "حبقوق",
+    "testament": "OT",
+    "chapters": 3
+  },
+  {
+    "id": "zep",
+    "name": "صفنیا",
+    "testament": "OT",
+    "chapters": 3
+  },
+  {
+    "id": "hag",
+    "name": "حجی",
+    "testament": "OT",
+    "chapters": 2
+  },
+  {
+    "id": "zec",
+    "name": "زکریا",
+    "testament": "OT",
+    "chapters": 14
+  },
+  {
+    "id": "mal",
+    "name": "ملاکی",
+    "testament": "OT",
+    "chapters": 4
+  },
+  {
+    "id": "mat",
+    "name": "متی",
+    "testament": "NT",
+    "chapters": 28
+  },
+  {
+    "id": "mrk",
+    "name": "مرقس",
+    "testament": "NT",
+    "chapters": 16
+  },
+  {
+    "id": "luk",
+    "name": "لوقا",
+    "testament": "NT",
+    "chapters": 24
+  },
+  {
+    "id": "jhn",
+    "name": "یوحنا",
+    "testament": "NT",
+    "chapters": 21
+  },
+  {
+    "id": "act",
+    "name": "اعمال رسولان",
+    "testament": "NT",
+    "chapters": 28
+  },
+  {
+    "id": "rom",
+    "name": "رومیان",
+    "testament": "NT",
+    "chapters": 16
+  },
+  {
+    "id": "1co",
+    "name": "اول قرنتیان",
+    "testament": "NT",
+    "chapters": 16
+  },
+  {
+    "id": "2co",
+    "name": "دوم قرنتیان",
+    "testament": "NT",
+    "chapters": 13
+  },
+  {
+    "id": "gal",
+    "name": "غلاتیان",
+    "testament": "NT",
+    "chapters": 6
+  },
+  {
+    "id": "eph",
+    "name": "افسسیان",
+    "testament": "NT",
+    "chapters": 6
+  },
+  {
+    "id": "php",
+    "name": "فیلیپیان",
+    "testament": "NT",
+    "chapters": 4
+  },
+  {
+    "id": "col",
+    "name": "کولسیان",
+    "testament": "NT",
+    "chapters": 4
+  },
+  {
+    "id": "1th",
+    "name": "اول تسالونیکیان",
+    "testament": "NT",
+    "chapters": 5
+  },
+  {
+    "id": "2th",
+    "name": "دوم تسالونیکیان",
+    "testament": "NT",
+    "chapters": 3
+  },
+  {
+    "id": "1ti",
+    "name": "اول تیموتائوس",
+    "testament": "NT",
+    "chapters": 6
+  },
+  {
+    "id": "2ti",
+    "name": "دوم تیموتائوس",
+    "testament": "NT",
+    "chapters": 4
+  },
+  {
+    "id": "tit",
+    "name": "تیتوس",
+    "testament": "NT",
+    "chapters": 3
+  },
+  {
+    "id": "phm",
+    "name": "فلیمون",
+    "testament": "NT",
+    "chapters": 1
+  },
+  {
+    "id": "heb",
+    "name": "عبرانیان",
+    "testament": "NT",
+    "chapters": 13
+  },
+  {
+    "id": "jas",
+    "name": "یعقوب",
+    "testament": "NT",
+    "chapters": 5
+  },
+  {
+    "id": "1pe",
+    "name": "اول پطرس",
+    "testament": "NT",
+    "chapters": 5
+  },
+  {
+    "id": "2pe",
+    "name": "دوم پطرس",
+    "testament": "NT",
+    "chapters": 3
+  },
+  {
+    "id": "1jn",
+    "name": "اول یوحنا",
+    "testament": "NT",
+    "chapters": 5
+  },
+  {
+    "id": "2jn",
+    "name": "دوم یوحنا",
+    "testament": "NT",
+    "chapters": 1
+  },
+  {
+    "id": "3jn",
+    "name": "سوم یوحنا",
+    "testament": "NT",
+    "chapters": 1
+  },
+  {
+    "id": "jud",
+    "name": "یهودا",
+    "testament": "NT",
+    "chapters": 1
+  },
+  {
+    "id": "rev",
+    "name": "مکاشفه",
+    "testament": "NT",
+    "chapters": 22
+  }
+]

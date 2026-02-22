@@ -1,0 +1,43 @@
+/* LIGHT MODE (Default) */
+:root {
+  --background: #ffffff;
+  --foreground: #0f172a;
+  --bg-surface: #f8fafc;
+  --bg-hover: #f1f5f9;
+  --sidebar-bg: #f8fafc;       /* Matches index.css mapping */
+  --sidebar-border: #e2e8f0;
+  --text-secondary: #64748b;
+  --muted: #94a3b8;
+  --border: #e2e8f0;
+  --accent: #2563eb;
+  --primary: #2563eb;
+}
+
+/* DARK MODE */
+.dark, [data-theme="dark"] {
+  --background: #0f172a;
+  --foreground: #f8fafc;
+  --bg-surface: #1e293b;
+  --bg-hover: #334155;
+  --sidebar-bg: #0b1120;       /* Matches index.css mapping */
+  --sidebar-border: #1e293b;
+  --text-secondary: #94a3b8;
+  --muted: #64748b;
+  --border: #334155;
+  --accent: #60a5fa;
+  --primary: #60a5fa;
+}
+
+/* SEPIA MODE */
+[data-theme="sepia"] {
+  --background: #fbf0d9;
+  --foreground: #5c4b37;
+  --sidebar-bg: #f4e4c1;   /* Must match the name in index.css */
+  --sidebar-border: #e2d5bd;
+  --bg-surface: #f4e4c1;
+  --bg-hover: #e8d5ae;
+  --accent: #a65d3a;
+  --primary: #a65d3a;
+  --border: #e2d5bd;
+  --muted: #a69076;
+}

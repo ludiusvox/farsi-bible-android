@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl"> <head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no" />
+  <title>کتاب مقدس (Farsi Bible)</title>
+  
+  <style>
+    :root {
+      --safe-area-inset-top: env(safe-area-inset-top, 0px);
+      --safe-area-inset-bottom: env(safe-area-inset-bottom, 0px);
+    }
+
+    /* THE FIX: Remove background-color: #000 */
+    body {
+      margin: 0;
+      padding: 0;
+      overscroll-behavior-y: none;
+      /* We remove the black background so the theme variables in index.css take over */
+      background-color: transparent; 
+      font-family: 'Vazirmatn', sans-serif;
+    }
+
+    #root {
+      /* Use dvh (dynamic viewport height) to better handle mobile browser address bars */
+      height: 100dvh; 
+      width: 100vw;
+      display: flex;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+</html>
